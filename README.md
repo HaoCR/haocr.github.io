@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到PearsLab的Wiki
 
 You can use the [editor on GitHub](https://github.com/HaoCR/pearslab.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
